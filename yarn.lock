@@ -5267,9 +5267,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"israeli-bank-scrapers@npm:^6.1.3":
-  version: 6.1.4
-  resolution: "israeli-bank-scrapers@npm:6.1.4"
+"israeli-bank-scrapers@npm:^6.2.0":
+  version: 6.2.3
+  resolution: "israeli-bank-scrapers@npm:6.2.3"
   dependencies:
     build-url: "npm:^2.0.0"
     core-js: "npm:^3.1.4"
@@ -5281,7 +5281,7 @@ __metadata:
     node-fetch: "npm:^2.2.0"
     puppeteer: "npm:22.15.0"
     uuid: "npm:^9.0.1"
-  checksum: 10c0/14764e9ffc784ac040bf3089380b27f07372d294c1a2f8510bd0b3ba50d1a0b32eee6824aff4f957894536c0517528499683aa5c370087acae4e0359fb3cbf29
+  checksum: 10c0/f17f5924995841a344449324ffec0f496b2644f12642f7e2b5bf6dd47e632926a411f0ffdc426201d153cb55476a3dd8e53404ff6821296bd6e17202e8d9dfef
   languageName: node
   linkType: hard
 
@@ -5301,7 +5301,7 @@ __metadata:
     "@types/papaparse": "npm:^5.3.16"
     bun-types: "npm:latest"
     cronstrue: "npm:^2.61.0"
-    israeli-bank-scrapers: "npm:^6.1.3"
+    israeli-bank-scrapers: "npm:^6.2.0"
     lodash: "npm:^4.17.21"
     moment: "npm:^2.30.1"
     mute-stdout: "npm:^2.0.0"
@@ -5310,7 +5310,7 @@ __metadata:
     papaparse: "npm:^5.5.3"
     semantic-release: "npm:^24.2.5"
     tsx: "npm:^4.19.4"
-    typescript: "npm:^5.8.3"
+    typescript: "npm:^5.9.3"
     xo: "npm:^1.1.0"
   languageName: unknown
   linkType: soft
@@ -8734,23 +8734,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^5.8.3":
-  version: 5.8.3
-  resolution: "typescript@npm:5.8.3"
+"typescript@npm:^5.9.3":
+  version: 5.9.3
+  resolution: "typescript@npm:5.9.3"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/5f8bb01196e542e64d44db3d16ee0e4063ce4f3e3966df6005f2588e86d91c03e1fb131c2581baf0fb65ee79669eea6e161cd448178986587e9f6844446dbb48
+  checksum: 10c0/6bd7552ce39f97e711db5aa048f6f9995b53f1c52f7d8667c1abdc1700c68a76a308f579cd309ce6b53646deb4e9a1be7c813a93baaf0a28ccd536a30270e1c5
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^5.8.3#optional!builtin<compat/typescript>":
-  version: 5.8.3
-  resolution: "typescript@patch:typescript@npm%3A5.8.3#optional!builtin<compat/typescript>::version=5.8.3&hash=5786d5"
+"typescript@patch:typescript@npm%3A^5.9.3#optional!builtin<compat/typescript>":
+  version: 5.9.3
+  resolution: "typescript@patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/39117e346ff8ebd87ae1510b3a77d5d92dae5a89bde588c747d25da5c146603a99c8ee588c7ef80faaf123d89ed46f6dbd918d534d641083177d5fac38b8a1cb
+  checksum: 10c0/ad09fdf7a756814dce65bc60c1657b40d44451346858eea230e10f2e95a289d9183b6e32e5c11e95acc0ccc214b4f36289dcad4bf1886b0adb84d711d336a430
   languageName: node
   linkType: hard
 
